@@ -1,43 +1,29 @@
   
-  h1, h2 {
+h1 {
     text-align: center;
+    color: white;
   }
+
+p {
+  color: white;
+} 
+
+a, li {
+  color: white;
+}
   
-  
-  ul.nav {
+ul.nav {
       list-style: none;
       text-align: center;
   }
   
-  li.nav {
+li.nav {
       display: inline-block;
       margin-right: 10px;
-    }
-  
-    .flex-container {
-      display: flex;
-      flex-wrap: nowrap;
-      justify-content: center;
-    }
-  
-    .flexbox {
-      width: 500px;
-      margin-right: 10px;
-      border: 1px solid black;
-      text-align: center;
-      padding: 10px;
-    }
-  
-    footer {
-      text-align: center;
-      font-family: 'Courier New', Courier, monospace;
-      color: aliceblue;
+     
     }
 
-    header{
-       
-    }
-    body {
-        background-color: #BDBDBD;
-    }
+body {
+      background-color:  #003B6D !important;
+  }
   
