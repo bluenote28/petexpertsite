@@ -4,6 +4,10 @@ h1 {
     color: white;
   }
 
+h2{
+  color: white;
+}
+
 p {
   color: white;
 } 
@@ -26,4 +30,17 @@ li.nav {
 body {
       background-color:  #003B6D !important;
   }
+
+.logo{
+  width: 10%;
+  height: 120px;
+  padding-right: 1%;
+  padding-left: 40%;
+}
+
+.header{
+
+  display: flex;
+  flex-direction: row;
+}
   
