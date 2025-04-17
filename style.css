@@ -1,19 +1,27 @@
   
 h1 {
     text-align: center;
-    color: white;
+    color: #BDBDBD;
+    font-size: xx-large;
   }
 
 h2{
-  color: white;
+  color: #BDBDBD;
+  font-size: xx-large;
 }
 
 p {
-  color: white;
+  color: #BDBDBD;
+  font-size: xx-large;
 } 
 
-a, li {
-  color: white;
+a, label {
+  color: #BDBDBD;
+}
+
+li{
+  color: #BDBDBD;
+  font-size: xx-large;
 }
   
 ul.nav {
@@ -35,7 +43,7 @@ body {
   width: 10%;
   height: 120px;
   padding-right: 1%;
-  padding-left: 40%;
+  padding-left: 33%;
 }
 
 .header{
@@ -44,3 +52,23 @@ body {
   flex-direction: row;
 }
   
+.search{
+  padding-left: 80%;
+}
+
+.mainpagepics{
+  display: flex;
+  height: 200px;
+}
+
+footer{
+  display: flex;
+}
+
+form{
+  font-size: xx-large;
+}
+
+mark {
+  background-color: #BDBDBD;
+}
